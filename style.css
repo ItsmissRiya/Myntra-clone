@@ -1,0 +1,56 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin:0;
+}
+
+.left img{
+  width:55px;
+  height:45px;
+}
+.container{
+  padding: 0 0;
+  margin:0;
+
+}
+nav{
+  position: sticky;
+  top:0;
+  background-color: white;
+  padding-left: 20px;
+  margin:0;
+  height: 75px;
+}
+nav ul li{
+  list-style:none;
+  padding:0px 12px;
+}
+.section-1{
+  background-color: #f9f6f6;
+  height: 120vw;
+  width:100%;
+  padding-top:30px;
+  
+}
+header{
+  position: sticky;
+
+  
+}
+.shadow{
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+h2{
+  font-size: 30px;
+  font-weight: bolder;
+  color: #352727;
+  font-family:"Lucida Console", "Courier New", monospace;
+  margin-left: 30px;
+  padding:10px;
+}
+.section2{
+  
+  height: 5vw;
+  background-color: #f2f2f2;
+}
